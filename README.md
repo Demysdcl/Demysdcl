@@ -21,7 +21,7 @@ My name is Demys Cota (he/his) from Brazil (🇧🇷). I'm Fullstack Developer a
 I am coordinator of Svelte Brasil tech community and speaker at meetups and technology events
 
 
-![Demys' github stats](https://github-readme-stats.vercel.app/api?username=Demysdcl&show_icons=true&theme=radical)
+![Demys' github stats](https://github-readme-stats.vercel.app/api?username=Demysdcl&show_icons=true&theme=tokyonight)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Demysdcl&hide=PlpgSQL,jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
