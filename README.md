@@ -16,9 +16,9 @@
 </p>
 
 
-My name is Demys Cota (he/his) om Brazil (🇧🇷). I'm Fullstack Developer at [Snowmanlabs](https://www.snowmanlabs.com.br/). 
+My name is Demys Cota (he/his) from Brazil (🇧🇷). I'm Fullstack Developer at [Snowmanlabs](https://www.snowmanlabs.com.br/). 
 
-I am coordinator of Svelte Brasil tech community
+I am coordinator of Svelte Brasil tech community and speaker at meetups and technology events
 
 
 ![Demys' github stats](https://github-readme-stats.vercel.app/api?username=Demysdcl&show_icons=true&theme=radical)
