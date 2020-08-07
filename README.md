@@ -24,7 +24,7 @@ I am coordinator of Svelte Brasil tech community and speaker at meetups and tech
 ![Demys' github stats](https://github-readme-stats.vercel.app/api?username=Demysdcl&show_icons=true&theme=tokyonight)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Demysdcl&hide=PlpgSQL,jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Demysdcl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
