@@ -6,9 +6,13 @@
     <img src="https://img.shields.io/badge/Front End-Vue-f55247"/>
     <img src="https://img.shields.io/badge/Front End-React-f55247"/>
     <img src="https://img.shields.io/badge/Front End-Angular-f55247"/>
+ </p>
+  <p> 
     <img src="https://img.shields.io/badge/Back End-Java-f55247"/>
     <img src="https://img.shields.io/badge/Back End-Kotlin-f55247"/>
     <img src="https://img.shields.io/badge/Back End-Node-f55247"/>
+ </p>
+  <p> 
     <img src="https://img.shields.io/badge/Mobile-Flutter-f55247"/>
     <img src="https://img.shields.io/badge/Mobile-Android-f55247"/>
     <img src="https://img.shields.io/badge/Mobile-Ionic-f55247"/>
