@@ -1,13 +1,13 @@
 ### Professional experience
 
  <p> 
+    <img src="http://views.whatilearened.today/views/github/Demysdcl/views.svg"/> 
     <img src="https://img.shields.io/badge/Back End-Java-f55247"/>
     <img src="https://img.shields.io/badge/Back End-Kotlin-f55247"/>
     <img src="https://img.shields.io/badge/Back End-Node-f55247"/>
  </p>
  
  <p>   
-    <img src="http://views.whatilearened.today/views/github/Demysdcl/views.svg"/> 
     <img src="https://img.shields.io/badge/Front End-Svelte-f55247"/>
     <img src="https://img.shields.io/badge/Front End-Vue-f55247"/>
     <img src="https://img.shields.io/badge/Front End-React-f55247"/>
