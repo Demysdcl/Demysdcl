@@ -41,10 +41,8 @@ I am coordinator of Svelte Brasil tech community and speaker at meetups and tech
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Demysdcl&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
 
-##  About me
+##  Contact me
 
-- Name: Demys Cota de Lima
-- Pronouns: he/his
 - [![Linkedin Badge](https://img.shields.io/badge/-DemysLima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/demys-lima/)](https://www.linkedin.com/in/demys-lima/)
 - [![Twitter Badge](https://img.shields.io/badge/-@DemysCota-black?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/DemysCota)](https://twitter.com/DemysCota)
 - [![Gmail Badge](https://img.shields.io/badge/-demysdcl@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:demysdcl@gmail.com)](mailto:demysdcl@gmail.com)
