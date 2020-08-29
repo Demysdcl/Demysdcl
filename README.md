@@ -45,5 +45,6 @@ I am coordinator of Svelte Brasil tech community and speaker at meetups and tech
 
 - Name: Demys Cota de Lima
 - Pronouns: he/his
-- Twitter: [@DemysCota](https://twitter.com/DemysCota)
-- LinkedIn: [linkedin.com/in/demys-lima/](https://www.linkedin.com/in/demys-lima/)
+- ![Linkedin Badge](https://img.shields.io/badge/-DemysLima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/demys-lima/)
+- ![Twitter Badge](https://img.shields.io/badge/-@DemysCota-black?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/DemysCota)
+- ![Gmail Badge](https://img.shields.io/badge/-demysdcl@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:demysdcl@gmail.com)
