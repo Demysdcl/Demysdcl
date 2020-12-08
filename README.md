@@ -44,5 +44,5 @@ I am coordinator of Svelte Brasil tech community and speaker at meetups and tech
 ##  Contact me
 
 - [![Linkedin Badge](https://img.shields.io/badge/-DemysLima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/demys-lima/)](https://www.linkedin.com/in/demys-lima/)
-- [![Twitter Badge](https://img.shields.io/badge/-@DemysCota-black?style=flat-square&logo=Twitter&logoColor=#1da1f2&link=https://twitter.com/DemysCota)](https://twitter.com/DemysCota)
+- [![Twitter Badge](https://img.shields.io/badge/-@DemysCota-#1da1f2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/DemysCota)](https://twitter.com/DemysCota)
 - [![Gmail Badge](https://img.shields.io/badge/-demysdcl@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:demysdcl@gmail.com)](mailto:demysdcl@gmail.com)
