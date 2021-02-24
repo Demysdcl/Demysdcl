@@ -15,10 +15,10 @@
  </p>
 
   <p> 
-    <img src="https://img.shields.io/badge/Mobile-Flutter-f55247"/>
-    <img src="https://img.shields.io/badge/Mobile-Android-f55247"/>
-    <img src="https://img.shields.io/badge/Mobile-Ionic-f55247"/>
-    <img src="https://img.shields.io/badge/Mobile-React Native-f55247"/>
+    <img src="https://img.shields.io/badge/Mobile-Flutter-70eab4"/>
+    <img src="https://img.shields.io/badge/Mobile-Android-70eab4"/>
+    <img src="https://img.shields.io/badge/Mobile-Ionic-70eab4"/>
+    <img src="https://img.shields.io/badge/Mobile-React Native-70eab4"/>
  </p>
 
 ### Learning
