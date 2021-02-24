@@ -2,9 +2,9 @@
 
  <p> 
     <img src="http://views.whatilearened.today/views/github/Demysdcl/views.svg"/> 
-    <img src="https://img.shields.io/badge/Back End-Java-e9564c"/>
-    <img src="https://img.shields.io/badge/Back End-Kotlin-e9564c"/>
-    <img src="https://img.shields.io/badge/Back End-Node-e9564c"/>
+    <img src="https://img.shields.io/badge/Back End-Java-2196F3"/>
+    <img src="https://img.shields.io/badge/Back End-Kotlin-2196F3"/>
+    <img src="https://img.shields.io/badge/Back End-Node-2196F3"/>
  </p>
  
  <p>   
@@ -15,10 +15,10 @@
  </p>
 
   <p> 
-    <img src="https://img.shields.io/badge/Mobile-Flutter-55c0a6"/>
-    <img src="https://img.shields.io/badge/Mobile-React Native-55c0a6"/>
-    <img src="https://img.shields.io/badge/Mobile-Android-55c0a6"/>
-    <img src="https://img.shields.io/badge/Mobile-Ionic-55c0a6"/>
+    <img src="https://img.shields.io/badge/Mobile-Flutter-2196F3"/>
+    <img src="https://img.shields.io/badge/Mobile-React Native-2196F3"/>
+    <img src="https://img.shields.io/badge/Mobile-Android-2196F3"/>
+    <img src="https://img.shields.io/badge/Mobile-Ionic-2196F3"/>
  </p>
 
 ### Learning
