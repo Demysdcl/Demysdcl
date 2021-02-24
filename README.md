@@ -2,9 +2,9 @@
 
  <p> 
     <img src="http://views.whatilearened.today/views/github/Demysdcl/views.svg"/> 
-    <img src="https://img.shields.io/badge/Back End-Java-f55247"/>
-    <img src="https://img.shields.io/badge/Back End-Kotlin-f55247"/>
-    <img src="https://img.shields.io/badge/Back End-Node-f55247"/>
+    <img src="https://img.shields.io/badge/Back End-Java-55c6d6"/>
+    <img src="https://img.shields.io/badge/Back End-Kotlin-55c6d6"/>
+    <img src="https://img.shields.io/badge/Back End-Node-55c6d6"/>
  </p>
  
  <p>   
@@ -16,9 +16,9 @@
 
   <p> 
     <img src="https://img.shields.io/badge/Mobile-Flutter-70eab4"/>
+    <img src="https://img.shields.io/badge/Mobile-React Native-70eab4"/>
     <img src="https://img.shields.io/badge/Mobile-Android-70eab4"/>
     <img src="https://img.shields.io/badge/Mobile-Ionic-70eab4"/>
-    <img src="https://img.shields.io/badge/Mobile-React Native-70eab4"/>
  </p>
 
 ### Learning
