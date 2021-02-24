@@ -8,10 +8,10 @@
  </p>
  
  <p>   
-    <img src="https://img.shields.io/badge/Front End-Svelte-f55247"/>
-    <img src="https://img.shields.io/badge/Front End-Vue-f55247"/>
-    <img src="https://img.shields.io/badge/Front End-React-f55247"/>
-    <img src="https://img.shields.io/badge/Front End-Angular-f55247"/>
+    <img src="https://img.shields.io/badge/Front End-Svelte-2196F3"/>
+    <img src="https://img.shields.io/badge/Front End-Vue-2196F3"/>
+    <img src="https://img.shields.io/badge/Front End-React-2196F3"/>
+    <img src="https://img.shields.io/badge/Front End-Angular-2196F3"/>
  </p>
 
   <p> 
