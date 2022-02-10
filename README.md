@@ -30,7 +30,7 @@
  </p>
 
 
-My name is Demys Cota (he/his) from Brazil (🇧🇷). I'm Senior Fullstack Java Developer at [Snowmanlabs](https://www.snowmanlabs.com.br/). 
+My name is Demys Cota (he/his) from Brazil (🇧🇷). I'm Senior Software Engineer Front-end at [Conta Simples](https://contasimples.com/). 
 
 I am coordinator of Svelte Brasil tech community and speaker at meetups and technology events
 
