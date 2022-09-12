@@ -15,8 +15,8 @@
  </p>
 
   <p> 
-    <img src="https://img.shields.io/badge/Mobile-Flutter-2196F3"/>
     <img src="https://img.shields.io/badge/Mobile-React Native-2196F3"/>
+    <img src="https://img.shields.io/badge/Mobile-Flutter-2196F3"/>
     <img src="https://img.shields.io/badge/Mobile-Android-2196F3"/>
     <img src="https://img.shields.io/badge/Mobile-Ionic-2196F3"/>
  </p>
