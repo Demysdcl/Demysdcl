@@ -2,9 +2,9 @@
 
  <p> 
     <img src="http://views.whatilearened.today/views/github/Demysdcl/views.svg"/> 
-    <img src="https://img.shields.io/badge/Back End-Java-2196F3"/>
-    <img src="https://img.shields.io/badge/Back End-Kotlin-2196F3"/>
     <img src="https://img.shields.io/badge/Back End-Node-2196F3"/>
+    <img src="https://img.shields.io/badge/Back End-Kotlin-2196F3"/>
+    <img src="https://img.shields.io/badge/Back End-Java-2196F3"/>
  </p>
  
  <p>   
